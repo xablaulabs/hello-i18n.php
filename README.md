@@ -4,18 +4,18 @@ hello-i18n.php
 Estudo sobre i18n, exemplo feito em PHP.
 
 
-## specs
-* Feito no OS : Mac OS X 10.6 (a.k.a Snow Leopard)
-* Testado nos OS : Ubuntu 10.04 LTS e Ubuntu Server 10.04 LTS
+## Specs
+* Feito no SO : Mac OS X 10.6 (a.k.a Snow Leopard)
+* Testado nos SOs : Ubuntu 10.04 LTS e Ubuntu Server 10.04 LTS
 * Linguagem utilizada : PHP
 
 
-## infos
+## Infos
 * Roda somente em plataformas *nix
 * Necessita do gettext e dos locales que deseja traduzir instalados
 
 
-## tips
+## Tips
 O OSX já vem com diversos locales instalados, ou seja dispensa instalações ou gambiarras.
 
 Quem quiser testar no Linux necessita instalar o xgettext e os locales...
